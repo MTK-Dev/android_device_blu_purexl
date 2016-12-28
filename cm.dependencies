@@ -1,0 +1,20 @@
+[
+  {
+    "remote": "github",
+    "repository": "bemolxd/android_device_mediatek_mt6795-common",
+    "target_path": "device/cyanogen/mt6795-common",
+	"revision": "cm-14.1"
+  },
+  {
+    "remote": "github",
+	"repository": "bemolxd/android_vendor_mtk",
+	"target_path": "android/vendor/mtk",
+	"repository": "cm-14.1"
+  },
+  {
+    "remote": "github",
+    "repository": "android_kernel_allview_x2xtreme",
+    "target_path": "kernel/allview/x2xtreme",
+	"revision": "nougat"
+  }
+]

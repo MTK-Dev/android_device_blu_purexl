@@ -1,0 +1,3 @@
+add_lunch_combo full_x2xtreme-user
+add_lunch_combo full_x2xtreme-userdebug
+add_lunch_combo full_x2xtreme-eng
