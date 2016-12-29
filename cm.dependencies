@@ -1,20 +1,20 @@
 [
   {
     "remote": "github",
-    "repository": "AllviewDev/android_device_mediatek_mt6795-common",
+    "repository": "MTK-Dev/android_device_mediatek_mt6795-common",
     "target_path": "device/cyanogen/mt6795-common",
-	"revision": "cm-14.1"
+    "revision": "cm-14.1"
   },
   {
     "remote": "github",
-	"repository": "AllviewDev/android_vendor_mtk",
-	"target_path": "android/vendor/mtk",
-	"repository": "cm-14.1"
+    "repository": "MTK-Dev/android_vendor_mtk",
+    "target_path": "android/vendor/mtk",
+    "repository": "cm-14.1"
   },
   {
     "remote": "github",
-    "repository": "AllviewDev/android_kernel_allview_x2xtreme",
+    "repository": "MTK-Dev/android_kernel_allview_x2xtreme",
     "target_path": "kernel/allview/x2xtreme",
-	"revision": "nougat"
+    "revision": "nougat"
   }
 ]
