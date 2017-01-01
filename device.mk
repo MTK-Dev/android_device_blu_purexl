@@ -58,7 +58,7 @@ PRODUCT_COPY_FILES += \
 $(call inherit-product, frameworks/native/build/phone-xxhdpi-3072-dalvik-heap.mk)
 
 # Common stuff
-$(call inherit-product, vendor/mtk/config/common.mk)
+$(call inherit-product, device/mediatek/mt6795-common)
 
 # Vendor
 $(call inherit-product, vendor/allview/x2xtreme/x2xtreme-vendor.mk)
