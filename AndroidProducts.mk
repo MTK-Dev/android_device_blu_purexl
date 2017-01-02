@@ -1,2 +1,2 @@
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/full_x2xtreme.mk
+    $(LOCAL_DIR)/full_purexl.mk

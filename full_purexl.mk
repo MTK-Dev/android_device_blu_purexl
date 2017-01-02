@@ -15,11 +15,11 @@
 $(call inherit-product, $(SRC_TARGET_DIR)/product/core_64_bit.mk)
 $(call inherit-product, $(SRC_TARGET_DIR)/product/full_base_telephony.mk)
 
-# Inherit from x2xtreme
-$(call inherit-product, device/allview/x2xtreme/device.mk)
+# Inherit from purexl
+$(call inherit-product, device/blu/purexl/device.mk)
 
-PRODUCT_DEVICE := x2xtreme
-PRODUCT_NAME := full_x2xtreme
-PRODUCT_BRAND := allview
-PRODUCT_MODEL := X2 Soul Xtreme
-PRODUCT_MANUFACTURER := allview
+PRODUCT_DEVICE := purexl
+PRODUCT_NAME := full_purexl
+PRODUCT_BRAND := blu
+PRODUCT_MODEL := Pure XL
+PRODUCT_MANUFACTURER := blu

@@ -12,17 +12,17 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
-$(call inherit-product, device/allview/x2xtreme/full_x2xtreme.mk)
+$(call inherit-product, device/blu/purexl/full_purexl.mk)
 $(call inherit-product, vendor/cm/config/common_full_phone.mk)
 
-PRODUCT_NAME := cm_x2xtreme
-BOARD_VENDOR := allview
-PRODUCT_DEVICE := x2xtreme
+PRODUCT_NAME := cm_purexl
+BOARD_VENDOR := blu
+PRODUCT_DEVICE := purexl
 
-PRODUCT_MANUFACTURER := Allview
-PRODUCT_MODEL := X2 Soul Xtreme
+PRODUCT_MANUFACTURER := BLU
+PRODUCT_MODEL := Pure XL
 
-PRODUCT_BRAND := Allview
-TARGET_VENDOR := allview
-TARGET_VENDOR_PRODUCT_NAME := X2 Soul Xtreme
-TARGET_VENDOR_DEVICE_NAME := x2xtreme
+PRODUCT_BRAND := BLU
+TARGET_VENDOR := blu
+TARGET_VENDOR_PRODUCT_NAME := Pure XL
+TARGET_VENDOR_DEVICE_NAME := purexl

@@ -1,4 +1,4 @@
-LOCAL_PATH := device/allview/x2xtreme
+LOCAL_PATH := device/blu/purexl
 
 DEVICE_PACKAGE_OVERLAYS += $(LOCAL_PATH)/overlay
 
@@ -7,7 +7,7 @@ PRODUCT_AAPT_CONFIG := normal xhdpi xxhdpi
 PRODUCT_AAPT_PREF_CONFIG := xxhdpi
 
 # Recovery allowed devices
-TARGET_OTA_ASSERT_DEVICE := x2xtreme
+TARGET_OTA_ASSERT_DEVICE := x2xtreme,purexl,BLU_PURE_XL
 
 PRODUCT_PACKAGES += \
    libmtk_symbols \

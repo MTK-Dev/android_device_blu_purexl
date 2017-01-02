@@ -1,3 +1,3 @@
-add_lunch_combo full_x2xtreme-user
-add_lunch_combo full_x2xtreme-userdebug
-add_lunch_combo full_x2xtreme-eng
+add_lunch_combo cm_purexl-user
+add_lunch_combo cm_purexl-userdebug
+add_lunch_combo cm_purexl-eng

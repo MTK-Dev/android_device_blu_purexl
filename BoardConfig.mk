@@ -1,5 +1,5 @@
 # x2xtreme boardconfig
-LOCAL_PATH := device/allview/x2xtreme
+LOCAL_PATH := device/blu/purexl
 include device/mediatek/mt6795-common/BoardConfigCommon.mk
 
 TARGET_SPECIFIC_HEADER_PATH := $(LOCAL_PATH)/include

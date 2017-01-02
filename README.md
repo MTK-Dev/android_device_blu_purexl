@@ -4,7 +4,7 @@ Copyright 2017 - The LineageOS Project.
 
 Device tree for building CyanogenMod/LineageOS 14.1 (Nougat).
 
-Device Tree for Allview X2 Soul Xtreme (x2xtreme)
+Device Tree for BLU Pure XL (purexl)
 =================================================
 
 Basic   | Spec Sheet
@@ -19,4 +19,4 @@ Battery | Non-removable Li-Po 3500 mAh battery
 Display | 2560x1440 pixels, 6 inches (~490 ppi pixel density)
 Camera  | Primary: 24 MP, Secondary: 8 MP
 
-![Allview X2 Soul Xtreme](http://cdn2.gsmarena.com/vv/pics/allview/allview-x2-extr.jpg "Allview X2 Soul Xtreme")
+![BLU Pure XL](http://cdn2.gsmarena.com/vv/pics/blu/blu-pure-xl-1.jpg "BLU Pure XL")
